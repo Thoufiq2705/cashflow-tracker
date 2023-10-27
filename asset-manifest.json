@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cashflow-tracker/static/css/main.394bacca.css",
+    "main.js": "/cashflow-tracker/static/js/main.93d35331.js",
+    "index.html": "/cashflow-tracker/index.html",
+    "main.394bacca.css.map": "/cashflow-tracker/static/css/main.394bacca.css.map",
+    "main.93d35331.js.map": "/cashflow-tracker/static/js/main.93d35331.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.394bacca.css",
+    "static/js/main.93d35331.js"
+  ]
+}
